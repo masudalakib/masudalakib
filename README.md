@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm MASUD AL AKIB</h1>
 <h3 align="center">I am a studnet,</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/masudalakib/masudalakib/assets/115017370/02d7c4e8-336f-4e9c-b451-101373d4b1b3)";
+<img align="right" alt="coding" width="400" src="![image](https://github.com/masudalakib/masudalakib/assets/115017370/f75cdaf4-0330-4793-b96f-056ce48fcd6c)" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudalakib&label=Profile%20views&color=0e75b6&style=flat" alt="masudalakib" /> </p>
 
